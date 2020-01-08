@@ -14,6 +14,7 @@ Please look at test.py.
 # Note
 My first OSS.
 Run Number.py to get more info.
+Please improve if you like.
 
 # Author
 * O-Jun-S(Japanese)
