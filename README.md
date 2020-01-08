@@ -3,7 +3,7 @@
 
 # Features
 you can get info of numbers.
-even or odd, Fizz or Buzz or FizzBuzz, high number of list...
+even or odd, Fizz or Buzz or FizzBuzz, the most high number of list...
 
 # Requirement
 math 3.2
