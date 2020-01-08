@@ -3,7 +3,7 @@
 
 # Features
 you can get info of numbers.
-even or odd, Fizz or Buzz or FizzBuzz, the most high number of list...
+even or odd, Fizz or Buzz or FizzBuzz, highest number in list...
 
 # Requirement
 math 3.2
@@ -15,7 +15,7 @@ Please show test.py.
 My first OSS.
 
 # Author
-* O-jun-S(Japanese)
+* O-Jun-S(Japanese)
 
 # License
 "Number" is under [GNU license](https://en.wikipedia.org/wiki/GNU_General_Public_License)
