@@ -2,8 +2,8 @@
 **You can get info of numbers**
 
 # Features
-you can get info of numbers.
-even or odd, Fizz or Buzz or FizzBuzz, highest number in list...
+You can get info of numbers.
+Even or odd, Fizz or Buzz or FizzBuzz, highest number in list...
 
 # Requirement
 math 3.2
