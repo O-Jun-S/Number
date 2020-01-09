@@ -9,7 +9,10 @@ Even or odd, Fizz or Buzz or FizzBuzz, highest number in list...
 math 3.2
 
 # Usage
-Please look at test.py.
+How to run test.py
+1.git clone https://github.com/O-Jun-S/Number.git
+2.python test.py
+(Run Number.py to get more info)
 
 # Note
 My first OSS.
