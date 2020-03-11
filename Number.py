@@ -1,7 +1,5 @@
-# Number module v=1.0.1
+# Number module v=1.0.2
 # coding utf-8
-
-import math
 
 class Number:
 
