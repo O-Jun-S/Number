@@ -1,7 +1,5 @@
-# Number module v=1.0.1
+# Number module v=1.0.2
 # coding utf-8
-
-import math
 
 class Number:
 
@@ -22,21 +20,7 @@ class Number:
                 self.low = i
         return self.low
 
-    def sum(self):  # Return sum numbers of list.
-        self.sum = 0
-        for i in self.num:
-            self.sum += i
-        return self.sum
-        
-    def sqrt(self):  # Return root of self.num
-        self.sqrt = math.sqrt(self.num)
-        return self.sqrt
-
-    def log(self, y):  # Return log of self.num to the base e.
-        self.log = math.log(self.num, y)
-        return self.log
-
-    def binary_number(self):  # Return binary_number.
+    def binary_number(self):
         self.binary_number = bin(self.num)
         return self.binary_number
 
@@ -79,8 +63,6 @@ class Number:
 
     def show(self):  # Show the number's status.
         print(
-            self.sqrt(),
-            self.binary_number,
             self.fib_list(),
             self.fib(),
             self.Fizz_Buzz(),
@@ -96,9 +78,10 @@ def __help__():
      ==>odd
      print(num.Fizz_Buzz())
      ==>Fizz
-     This is my first module.
-     I'm Japanese and 13 years old in 2020.1 so I can't write English complete.
-     thank you."""
+
+     num2 = Number([1, 2, 3])
+     print(num2.low(), num2.high)
+     """
      )  
 
 if __name__ == "__main__":

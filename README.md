@@ -5,9 +5,6 @@
 You can get info of numbers.
 Even or odd, Fizz or Buzz or FizzBuzz, highest number in list...
 
-# Requirement
-math 3.2
-
 # Usage
 - How to run test.py
   - 1.git clone https://github.com/O-Jun-S/Number.git
