@@ -78,6 +78,9 @@ def __help__():
      ==>odd
      print(num.Fizz_Buzz())
      ==>Fizz
+
+     num2 = Number([1, 2, 3])
+     print(num2.low(), num2.high)
      """
      )  
 

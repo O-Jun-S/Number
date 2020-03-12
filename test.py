@@ -1,4 +1,7 @@
+# This is a test of this module.
+
 import Number as N
+
 num_list = [1, 2, 3]
 num1 = N.Number(num_list)
 print(num1.high(), num1.low())
